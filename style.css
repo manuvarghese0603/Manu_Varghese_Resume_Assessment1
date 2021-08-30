@@ -1,0 +1,19 @@
+body
+{
+    background-image: url(bgcolorwhite.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Navigation_bar
+{
+    color: rgb(102, 32, 44);
+}
+button
+{
+    color: rgb(230, 223, 212);
+    background-color:rgb(49, 34, 34);
+    border-radius: 4px;
+    margin: 2px 2px;
+    font-size: medium;
+    font-family: cursive;
+}
